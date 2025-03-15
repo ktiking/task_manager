@@ -17,7 +17,7 @@ cd task_manager
 Create a folder then paste the folder you got from the repository inside.
 ```
 
-2. Import the Database you got from the GitHub Repository called: "tasks.sql" inside the PhpMyAdmin in the SQL Import Section
+2. Import the Database you got from the GitHub Repository called: "tasks.sql"
 
 3. Create a virtual environment:
 ```python -m venv venv```
